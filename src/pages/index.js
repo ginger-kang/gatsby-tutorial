@@ -1,13 +1,11 @@
-import { Link } from "gatsby";
 import * as React from "react";
+import Layout from "../components/layout";
 
 const IndexPage = () => {
   return (
-    <main>
-      <title>Gatsby tutorial</title>
+    <Layout pageTitle="Home">
       <h1>Let's learn a Gatsby</h1>
-      <Link to="/about">About</Link>
-    </main>
+    </Layout>
   );
 };
 
