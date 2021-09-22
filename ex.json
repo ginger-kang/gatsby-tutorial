@@ -1,0 +1,32 @@
+{
+  "ironman": {
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "name": "Iron Man"
+  },
+  "hulk": {
+    "firstName": "Bruce",
+    "lastName": "Banner",
+    "name": "Hulk"
+  },
+  "thor": {
+    "firstName": "Thor",
+    "lastName": "Odinson",
+    "name": "Thor"
+  },
+  "captainamerica": {
+    "firstName": "Steve",
+    "lastName": "Rogers",
+    "name": "Captain America"
+  },
+  "blackwidow": {
+    "firstName": "Natasha",
+    "lastName": "Romanoff",
+    "name": "Black Widow"
+  },
+  "hawkeye": {
+    "firstName": "Clint",
+    "lastName": "Barton",
+    "name": "Hawkeye"
+  }
+}
